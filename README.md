@@ -9,7 +9,7 @@ I specialise in building reliable testing strategies for complex cloud and infra
 - 🔭 **Current Focus:** QA Leadership, Cloud-Native Testing, Agile Delivery, and AI-Assisted Test Automation
 - 👥 **Leadership Experience:** QA team leadership, Team mentoring, and cross-functional Scrum facilitation
 - ☁️ **Domain Expertise:** Telco Cloud, NFVI Benchmarking, Kubernetes, OpenStack, and Cloud Infrastructure
-- 🤖 **AI Engineering:** GitHub Copilot, Copilot Plan/Agent modes, Validating GenAI Input/Output Response, LLM and RAG Data validation and Confluence Rovo Agents.
+- 🤖 **AI Engineering:** GitHub Copilot, Copilot Plan/Agent modes, validating GenAI Input/Output Response, LLM and RAG Data validation and Confluence Rovo Agents.
 - 🏅 **Certification:** Professional Scrum Master I (PSM-I)
 - 🎯 **Career Interests:** Senior Test Lead, QA Manager, Quality Engineering Lead, and Scrum Master
 
@@ -40,12 +40,12 @@ I specialise in building reliable testing strategies for complex cloud and infra
 
 ### 2. Cloud, Containers & Infrastructure
 
-- **Cloud Platforms:** AWS, Microsoft Azure, Google Cloud Platform (GCP/GKE)
-- **Containerization:** Docker
-- **Container Orchestration:** Kubernetes
-- **Infrastructure Platforms:** OpenStack, NFVI
-- **Package Management & Deployment:** Helm
-- **Cloud Technologies:** EKS, AKS, GKE, Rancher
+- **Cloud Platforms:** AWS(EKS), Microsoft Azure(AKS), Google Cloud Platform (GCP/GKE)
+- **Containerization and CLI:** Docker, Containerd, Podman, crictl
+- **Container Orchestration:** Kubernetes, Kubectl, Docker Hub.
+- **Infrastructure Platforms:** OpenStack, NFVI, Wasabi S3 bucket (k8s), Swift Object Storage(OpenStack, Packstack)
+- **Package Management & Deployment:** Helm, FluxCD, Harbor conatainer registry
+- **Cloud Technologies:** EKS, AKS, GKE 
 - **Domain Expertise:** Telco Cloud, Cloud-Native Network Functions (CNF), VM-based deployments, NFVI benchmarking, infrastructure validation
 
 ### 3. CI/CD, DevOps & Development Tools
@@ -63,7 +63,7 @@ I specialise in building reliable testing strategies for complex cloud and infra
 - **Databases:** MySQL, MongoDB, Redis
 - **API Testing:** REST API validation, CRUD workflows, response validation, integration testing
 - **Database Testing:** Data validation, migration testing, Alembic migration validation
-- **Performance & Benchmarking:** NFVI benchmarking, cloud performance comparison, API response optimization validation
+- **Performance & Benchmarking:** NFVI benchmarking, cloud performance comparison, API response optimisation validation
 
 ---
 
@@ -88,9 +88,9 @@ I actively explore and apply AI-assisted engineering workflows to improve QA eff
 - **GitHub Copilot:** AI-assisted automation script generation using structured Markdown instruction files.
 - **Copilot Plan Mode:** Research, analysis, and planning for automation framework enhancements.
 - **Copilot Agent Mode:** Implementation support for framework development and automation improvements.
-- **AI-Assisted Code Reviews:** Leveraging Copilot to identify coding standard and quality improvement opportunities.
-- **Confluence Rovo Agents:** Creating customized agents to generate QA scenarios from user stories and acceptance criteria.
-- **AI-Driven QA Productivity:** Exploring opportunities to streamline test design, automation development, and quality engineering workflows.
+- **AI-Assisted Code Reviews:** Leveraging Copilot to identify coding standards and quality improvement opportunities.
+- **Confluence Rovo Agents:** Creating customised agents to generate QA scenarios from user stories and acceptance criteria.
+- **AI-Driven QA Productivity:** Exploring opportunities to streamline test design, automation development, and quality engineering workflows, generating automation test cases using custom agents.
 
 ---
 
