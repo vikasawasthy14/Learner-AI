@@ -120,6 +120,7 @@ I actively explore and apply AI-assisted engineering workflows to improve QA eff
 ## 📜 Certifications
 
 - **Professional Scrum Master I (PSM-I)** – Scrum.org
+- **Robotic Process Automation Using UiPath** – lms.simplilearn.com 
 
 ---
 
@@ -127,8 +128,9 @@ I actively explore and apply AI-assisted engineering workflows to improve QA eff
 
 I am always interested in connecting with professionals working in Quality Engineering, Test Automation, Cloud-Native Technologies, AI in Testing, and Agile Delivery.
 
-- 💼 LinkedIn: [Add your LinkedIn Profile URL](https://www.linkedin.com/)
-- 🐙 GitHub: [Add your GitHub Profile URL](https://github.com/)
+- 💼 LinkedIn: https://www.linkedin.com/in/vikas-awasthy-22b072100
+- 🐙 Email: vikasawasthy14@gmail.com
+- Mob: +91-7396325009
 
 ---
 
