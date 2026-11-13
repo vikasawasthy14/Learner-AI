@@ -119,8 +119,8 @@ I actively explore and apply AI-assisted engineering workflows to improve QA eff
 
 ## 📜 Certifications
 
-- **Professional Scrum Master I (PSM-I)** – Scrum.org
-- **Robotic Process Automation Using UiPath** – lms.simplilearn.com 
+- **Professional Scrum Master I (PSM-I)** – https://www.credly.com/badges/f2f087d1-8919-4535-b71c-01acf4caf795
+- **Robotic Process Automation Using UiPath** – https://lms.simplilearn.com/courses/3349/Robotic-Process-Automation-using-UiPath/certificate/download-certificate
 
 ---
 
